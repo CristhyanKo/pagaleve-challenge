@@ -1,0 +1,6 @@
+[submodule "pagaleve-service"]
+	path = pagaleve-service
+	url = https://github.com/CristhyanKo/pagaleve-challenge-service
+[submodule "pagaleve-app"]
+	path = pagaleve-app
+	url = https://github.com/CristhyanKo/pagaleve-challenge-app
