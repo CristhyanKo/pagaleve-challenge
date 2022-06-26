@@ -18,7 +18,7 @@ The purpose of this App is to perform the basic management (Create and Update) o
 - [API Rest for Customers](https://github.com/CristhyanKo/pagaleve-challenge-service)
 - [Web App for Customers](https://github.com/CristhyanKo/pagaleve-challenge-app)
 
-## Requisites [PDF]('Full Stack Coding Evaluation.pdf')
+## Requisites ([PDF](https://github.com/CristhyanKo/pagaleve-challenge/blob/main/Full%20Stack%20Coding%20Evaluation.pdf))
 
   `1. Create a repository in GitHub that you can share with us when completed`
 
